@@ -1,0 +1,5 @@
+flask
+pymongo
+certifi
+bcrypt
+pymongo[gssapi,aws,ocsp,snappy,srv,tls,zstd,encryption]
